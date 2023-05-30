@@ -1,0 +1,24 @@
+- A Course in Large Sample Theory
+- A Probability Path 
+- Asymptotic Statistics
+- Bayesian Data Analysis 3
+- Elements of Statistical Learning
+- Generalized Linear Models
+- Introduction to Statistical Learning 
+- [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/)
+- Regression and Other Stories
+- Statistical Analysis with Missing Data
+- Statistical Rethinking 
+- Targeted Learning
+- Infectious Disease Modelling
+- Infectious Diseases of Humans Dynamics and Control
+- BBR
+- Advanced R
+- R programming
+- Bayes Rules! 
+- Bayesian Approaches to Clinical Trials and Health Care Evaluation
+- Missing Data (Allison 2002)
+- [Monte Carlo theory, methods, and examples](https://artowen.su.domains/mc/)
+- [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/)
+- [Epidemiology for the uninitated](https://www.bmj.com/about-bmj/resources-readers/publications/epidemiology-uninitiated)
+- [Experimental Design and GLMM](https://github.com/ASKurz/Experimental-design-and-the-GLMM#experimental-design-and-the-glmm) 

@@ -1,0 +1,42 @@
+**R**
+- mediation
+- bmem
+- BayesMed
+- brms
+- [smallcount](https://github.com/rafalab/smallcount) : Fast and memory-efficient code for performing PCA on Pearson residuals from sparse single cell RNA-Seq data.
+- equatiomatic 
+	- extract_eq
+- xaringan: slides for RMarkdown
+- pmsampsize: Use C statistic from existing binary outcome model to calculate minimum sample size required for a new prediction model development study
+- [performance](https://t.co/4SIIL0u9Jn)
+- AIPW
+- tidycensus
+- tigris
+- StackImpute
+- individual: Agent based models
+- faux: set up a factorial design
+- targets: reproducible workflows
+- [randomNames](https://cran.r-project.org/web/packages/randomNames/randomNames.pdf)
+- marginaleffects
+- sjPlot::tab_model()
+- parameters
+- postcards: minimal website or landing page
+- causaldata: example datasets for causal inference
+- ggdag 
+- doParallel
+- epiflows
+- [sars2pack](https://seandavi.github.io/sars2pack/reference/index.html)
+- [Rstata](https://github.com/lbraglia/RStata)
+- [Odin](): R-based interface/language generating C code
+- [Sircovid]()
+- [brglm](https://cran.r-project.org/web/packages/brglm/index.html)
+- [loopurrr](https://timteafan.github.io/loopurrr/)
+- Upset plots: nanier, UpsetR, Complex UpSet, ggupset
+- [Sometimes](https://sometimesir.com/posts/easy-notifications-from-r/)
+- [ReBalancing Intercept](https://github.com/pzivich/publications-code/blob/master/ReBalancingIntercept/balance_intercept.R)
+- swirl 
+- fasteR
+- introverse
+
+**Stata** 
+- medeff in mediate
