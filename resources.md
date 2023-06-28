@@ -39,6 +39,7 @@ R
 - [R for Applied Epidemiology ](https://epirhandbook.com/en/)
 - [R for Data Science](https://r4ds.had.co.nz/index.html)
 - [R for Data Science: Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/index.html)
+- [R for the Intimidated](https://www.youtube.com/playlist?list=PLHfe4A2DV-b2XDFl-9ytrcmQVZ9NNOEQS)
 - [R for the Rest of Us](https://rfortherestofus.com)
 - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 - [R-bloggers](https://www.r-bloggers.com)

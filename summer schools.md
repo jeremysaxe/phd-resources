@@ -1,0 +1,4 @@
+- abs 
+- bayes at cirm
+- [Summer School on Modern Methods  in Biostatistics and Epidemiology](https://www.biostatepi.org/home.htm)
+- 
