@@ -1,4 +1,5 @@
-- abs 
-- bayes at cirm
+- [abs](http://www.mi.imati.cnr.it/conferences/abs23/) 
+- [bayes at cirm](https://bayesatcirm.github.io)
 - [Summer School on Modern Methods  in Biostatistics and Epidemiology](https://www.biostatepi.org/home.htm)
+- [EEPE](https://www.eepe.org) 
 - 
