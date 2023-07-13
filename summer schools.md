@@ -2,4 +2,4 @@
 - [bayes at cirm](https://bayesatcirm.github.io)
 - [Summer School on Modern Methods  in Biostatistics and Epidemiology](https://www.biostatepi.org/home.htm)
 - [EEPE](https://www.eepe.org) 
-- 
+- [Summer school on advanced Bayesian methods](https://ibiostat.be/seminar/summerschool2023)
