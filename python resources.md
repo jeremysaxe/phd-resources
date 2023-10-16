@@ -1,0 +1,14 @@
+- [t. From R to Python](https://github.com/Joscelinrocha/Learning-R-Resources/wiki/t.-From-R-to-Python-🐍)
+- [Python Data Science Handbook]
+- Hands-On ML w/ Scikit-Learn
+- Building a Career in Data Science
+- [causal-learn](https://github.com/cmu-phil/causal-learn)
+- [Intro to Data Analysis with Python](https://colab.research.google.com/drive/1pe2SL0cYyz8IJwFcTgGeXGvDmVmT809e?usp=sharing)
+- [Machine Learning with scikit-learn](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)
+- [Uncertainty toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox)
+- [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)
+- [Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
+- [Statistics and Machine Learning in Python](https://duchesnay.github.io/pystatsml/)
+- [Python for Data Analysis](https://wesmckinney.com/book/)
+- [A Modern Introduction to Probabilistic Programming with PyMC](https://austinrochford.com/posts/intro-prob-prog-pymc.html)
+- [siuba]()
