@@ -1,3 +1,4 @@
+- [R resources database](https://www.resourcesdatabase.com)
 - [So you want to learn R](https://livefreeordichotomize.com/2020/07/02/so-you-want-to-learn-r/)
 - [YaRrr! The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/)
 - [Swirl](https://swirlstats.com/students.html)
